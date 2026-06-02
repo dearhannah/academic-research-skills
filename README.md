@@ -11,7 +11,7 @@ A comprehensive suite of Claude Code skills for academic research, covering the 
 **Install in 30 seconds** (Claude Code CLI / VS Code / JetBrains, v3.7.0+):
 
 ```text
-/plugin marketplace add Imbad0202/academic-research-skills
+/plugin marketplace add dearhannah/academic-research-skills
 /plugin install academic-research-skills
 ```
 
